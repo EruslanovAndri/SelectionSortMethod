@@ -1,0 +1,15 @@
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/bin/Debug/net6.0/FactorialRecursionMethod
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/bin/Debug/net6.0/FactorialRecursionMethod.deps.json
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/bin/Debug/net6.0/FactorialRecursionMethod.runtimeconfig.json
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/bin/Debug/net6.0/FactorialRecursionMethod.dll
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/bin/Debug/net6.0/FactorialRecursionMethod.pdb
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.csproj.AssemblyReference.cache
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.AssemblyInfoInputs.cache
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.AssemblyInfo.cs
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.csproj.CoreCompileInputs.cache
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.dll
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/refint/FactorialRecursionMethod.dll
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.pdb
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/FactorialRecursionMethod.genruntimeconfig.cache
+/Users/eruslanovandrey/Desktop/GB/Sorting/FactorialRecursionMethod/obj/Debug/net6.0/ref/FactorialRecursionMethod.dll
